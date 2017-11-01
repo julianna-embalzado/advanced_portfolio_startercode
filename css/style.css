@@ -1,10 +1,7 @@
-.center {
-    line-height: 200px;
-    height: 200px;
-    border: 3px solid green;
-    text-align: center;
+body {
+    
+    /*margin: auto;*/
 }
-
 
 
 /* Nav Bar CSS */
@@ -17,24 +14,33 @@
 /* Section CSS */
 h1 {
     font-family: 'Bungee Shade', cursive;
+    text-align: center;
+    color: #e26d3f;
 }
 
 h2 {
     font-family: 'Cormorant Garamond', serif;
+    text-align: center;
+    color: #cc4c43;
 }
 
 /* About Section CSS */
 h3 {
     font-family: 'Ewert', cursive;
+    text-align: center;
+    color:#ff0000;
 }
 
 h4 {
     font-family: 'Monoton', cursive;
+    text-align: center;
+
 
 }
 
 p {
     font-family: 'Pacifico', cursive;
+    text-align: center;
 }
 
 /* Portfolio Item CSS */
