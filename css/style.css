@@ -1,7 +1,6 @@
-body {
+
     
-    /*margin: auto;*/
-}
+
 
 
 /* Nav Bar CSS */
@@ -15,40 +14,69 @@ body {
 h1 {
     font-family: 'Bungee Shade', cursive;
     text-align: center;
-    color: #e26d3f;
+    color: #FFC14F;
 }
 
-h2 {
-    font-family: 'Cormorant Garamond', serif;
+
+.flower {
+    position: relative;
     text-align: center;
-    color: #cc4c43;
+    color: white;
 }
 
+.my-name {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.home {
+    background-image: url("https://i.pinimg.com/originals/e6/1e/d5/e61ed5aff13c74057c3c869e496182a4.jpg");
+   
+}
 /* About Section CSS */
 h3 {
     font-family: 'Ewert', cursive;
     text-align: center;
-    color:#ff0000;
+    color:#7F376C;
 }
 
 h4 {
-    font-family: 'Monoton', cursive;
+    font-family: 'Roboto Condensed', sans-serif;
     text-align: center;
+    color: #7F5E76;
+    font-size: 20px;
 
 
 }
 
 p {
-    font-family: 'Pacifico', cursive;
+    font-family: 'Roboto Condensed', sans-serif;
     text-align: center;
+    color: #7F5E76;
+    font-size: 30px;
 }
 
+.about {
+    background-image: url("https://i.pinimg.com/originals/09/4e/04/094e04431d1238d6cc14602f0d34d659.jpg");
+
+    
+}
+
+.projects {
+    background-image: url("https://i.pinimg.com/originals/09/4e/04/094e04431d1238d6cc14602f0d34d659.jpg");
+
+}
 /* Portfolio Item CSS */
 
 
 
 /* Footer CSS */
+.contact {
+    background-image: url("https://i.pinimg.com/originals/09/4e/04/094e04431d1238d6cc14602f0d34d659.jpg");
 
+}
 
 
 /* Button CSS */
